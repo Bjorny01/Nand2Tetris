@@ -16,3 +16,5 @@ To be implemented:
 #####################################
 #or similar.
 #The rest of the functions were supplied but needed to be understood completly to implement the other functions
+
+#In the ComilationEngine I have implemented the functions _CompileIf and _CompileCall
